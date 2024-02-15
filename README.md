@@ -2,7 +2,7 @@
 
 An unofficial Docker Image for getgrass.io Available on Docker Hub
 
-Source code available at: GitHub
+Source code available at: (GitHub)[https://github.com/cyrus0880/grass]
 ```
 ### Now supports Raspberry Pi 2 and above! (ARMv7 / ARM64) ###
 ```
@@ -43,3 +43,6 @@ Please replace 8080 with the port you want to be able to access the status with,
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+## if you like this project
+you can [ buy me a coffee ](https://www.buymeacoffee.com/cyrus.yeung)
